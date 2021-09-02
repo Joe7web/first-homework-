@@ -6,6 +6,8 @@ Horiseon is digital marking company that needed to refactor its existing code fo
 
 As a forward looking company, Horiseon was aware that it had to upgrade it user accessibility. Also with being a company that offered SEO service to client - they needed to make sure their SEO was where it needed to be.
 
+The accessibility was solved by adding "alt" attributes to all images on the landing page.  We were able to increase their SEO by adding a title to the head.  Finally, by removing all div elements in the index.html page, applying a semantic structure, and consoldating the css page - we were able to provide better readibilty and ease the customization for future programming on their website.
+
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
